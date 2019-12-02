@@ -18,3 +18,9 @@ put them in a `input/dayX.txt` file and that's the location expected by the
 programs.
 
 [the-website]: https://adventofcode.com/2019
+
+## Related stuff
+
+If you want to see more adventurous Haskell, 
+[Cris Penner](https://twitter.com/chrislpenner) is doing the advent of code in 
+Haskell using only lenses. https://chrispenner.ca/posts/advent-of-optics-01
